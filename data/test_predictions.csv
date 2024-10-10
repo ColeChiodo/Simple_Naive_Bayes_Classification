@@ -1,0 +1,13 @@
+text,predicted_class,actual_class
+"I had a bad experience, and I won't be returning.",negative,negative
+Great value for money! Will buy again.,positive,positive
+Highly satisfied with my purchase!,positive,positive
+Perfect for my needs! Will repurchase.,positive,positive
+Absolutely fantastic! I’ll be telling my friends.,positive,positive
+Exceeded all my expectations!,positive,positive
+Best decision I've made in a while!,positive,positive
+I'm impressed with the quality and service!,negative,positive
+I can't believe how great this is!,positive,positive
+I'm really pleased with how it turned out.,negative,positive
+The product arrived late and in poor condition.,negative,negative
+Wonderful! I’m so glad I bought it.,positive,positive
